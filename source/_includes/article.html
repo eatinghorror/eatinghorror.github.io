@@ -1,19 +1,34 @@
 <!-- START OF _includes/article.html -->
+{% if index %}
 <article>
 	<header>
-		<h1><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h1>
+		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 		<time>{{ page.date | date: "%d %B %Y" }}</time>
 	</header>
 		<div class="content">
 			{{ content | excerpt }}
 			{% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
-			{% if excerpted == 'true' %} <a href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a> {% endif %}
+      {% if excerpted == 'true' %}<a href="{{ page.url }}" class="more-link">{{ site.excerpt_link }}</a> {% endif %}
 		</div>
+
+{% else %}
+
+<article>
+	<header>
+		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+		<time>{{ page.date | date: "%d %B %Y" }}</time>
+	</header>
+		<div class="content">
+			{{ content }}
+		</div>
+{% endif %}
+
 	<footer>
 		{% include post/categories.html %}
 	
 	{% if page.source.url %}via <a href="{{ page.source.url }}">{{ page.source.title }}</a>{% endif %}
 	</footer>
-	
 </article>
+
+	
 <!-- END OF _includes/article.html -->

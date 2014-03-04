@@ -6,7 +6,9 @@ comments: true
 categories: 
 ---
 
-Partly as a homage to [codinghorror](http://blog.codinghorror.com) -- I'm a developer by day -- but mostly because I now look back on my old eating habits with horror. Let me back up.
+Partly as a homage to [codinghorror](http://blog.codinghorror.com) -- I'm a developer by day -- but mostly because I now look back on my old eating habits with horror. I want to help others make that same realization. I want everyone to feel empowered to take control of their health. Let me back up.
+
+<!-- more -->
 
 In August of 2006 I was diagnosed with [ankylosing spondylitis](http://en.wikipedia.org/wiki/Ankylosing_spondylitis) (arthritis). The doctors initially thought I broke my toe until my other foot ballooned days later. In 2008, I developed psoriosis, a minor annoyance. In January of 2013 I was diagnosed with Crohns Disease (CD). I was actually diagnosed with severe CD -- I had a [fistula](http://en.wikipedia.org/wiki/Fistula) in my colon and a [stricture](http://www.crohnsforum.com/wiki/Stricture) -- severe enough for me to go on [mesalamin](http://en.wikipedia.org/wiki/Mesalazine) and [Humira](http://en.wikipedia.org/wiki/Humira) (you may have seen it on TV). That's three autoimmune diseases before the age of 21.
 
