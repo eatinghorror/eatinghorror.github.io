@@ -21,6 +21,6 @@ I'm going to use my 6-quart [slow cooker](http://www.amazon.com/gp/product/B004P
 - filtered water
 - salt
 
-Now, all you have to do it throw everything into your favorite slow cooker and turn it on low. After about 6-7 hours, you will have extracted all of the fishy goodness. Next, pour the stock through a fine strainer or sieve into containers for storage. I suggest refrigerating some and freezing some for later. About 1-2 cups per day is plenty (depending on if you're currently in a flare). 
+Now, all you have to do it throw everything into your favorite slow cooker and turn it on low. After about 6-7 hours, you will have extracted all of the fishy goodness. Next, pour the stock through a fine strainer or sieve into containers for storage. I suggest refrigerating some and freezing some for later. About 1 cup per day is plenty if you're trying to maintain health, or 2 cups a day is recommended if you're currently in a flare or otherwise need to give your body some extra help. 
 
 Happy fishing!
