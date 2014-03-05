@@ -11,7 +11,7 @@ I grew up in Westchester, NY, went to school at UC Berkeley, lived in Vancouver,
 
 # You
 
-You are sick. You believe diet might help (maybe not cure) and maybe even have heard of the [autoimmune protocol](eatinghorror.com/blog/2014/03/03/why-aip/). Maybe you want to meet others who feel the same way about you (I'm working on just the thing). Maybe you want recipes or tips on how to ease the burden. Maybe you want to feel less isolated. I can provide you the support, tips, and help you need to succeed.
+You are sick. You believe diet might help (maybe not cure) and maybe even have heard of the [autoimmune protocol](http://eatinghorror.com/blog/2014/03/03/why-aip/). Maybe you want to meet others who feel the same way about you (I'm working on just the thing). Maybe you want recipes or tips on how to ease the burden. Maybe you want to feel less isolated. I can provide you the support, tips, and help you need to succeed.
 
 # Why
 

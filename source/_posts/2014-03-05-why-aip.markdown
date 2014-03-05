@@ -4,7 +4,7 @@ title: "Why AIP?"
 date: 2014-03-05 20:46:05 -0700
 comments: true
 categories: 
-published: false
+published: true
 ---
 
 AIP, or Autoimmune Protocol, is a set of diet and lifestyle changes that help cure a leaky gut and reverse autoimmune disease. I'm not going to bore you with cellular level details, but instead give you a general idea of the mechanics behind autoimmune diseases and AIP can help cure them. If you want the nitty gritty, scientific response to drop on your friends and family when they give you quizzical looks, please refer to [The Paleo Approach](http://www.amazon.com/gp/product/1936608391/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936608391&linkCode=as2&tag=eatihorr-20) -- it’s fun arguing with science on your side, trust me.
