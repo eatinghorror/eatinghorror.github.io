@@ -10,7 +10,7 @@ Apparently Whole Foods just gives fish heads away! That means I'm making stock t
 
 <!-- more -->
 
-This is extraordinarily easy to make and very healthy. Fish provide iodine -- an important nutrient that other foods permitted on the autoimmune protocol lack, making fish stock an essential staple. Iodine is important element in regulating the thyroid activity. Fish stock also provides all of the same benefits that beef stock provides -- mainly its glycine and proline composition help heal the gut.
+This is extraordinarily easy to make and very healthy. Fish provide iodine -- an important nutrient that other foods permitted on the autoimmune protocol lack, making fish stock an essential staple. Iodine is an important element in regulating thyroid activity. Fish stock also provides all of the same benefits that beef stock provides.
 
 I'm going to use my 6-quart slow cooker to do most of the heavy lifting. Before we get started, you'll need
 
