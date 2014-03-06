@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Practical AIP"
+title: "Time Saving Tips"
 date: 2014-03-06 19:16:52 -0700
 comments: true
 categories: 
