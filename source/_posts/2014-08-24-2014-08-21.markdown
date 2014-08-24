@@ -3,7 +3,7 @@ layout: post
 title: "2014-08-21"
 date: 2014-08-24 12:39:03 -0600
 comments: true
-categories: food-journal
+categories: journal
 ---
 
 ## Food
