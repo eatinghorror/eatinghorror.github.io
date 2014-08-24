@@ -5,10 +5,10 @@ layout: default
 <!-- START OF index.html -->
 {% assign index = true %}
 	{% for page in paginator.posts %}
-    {% unless page.categories contains 'food-journal' %}
+    {% if page.categories contains 'food-journal' %}
       {% assign content = page.content %}
       {% include article.html %}
-    {% endunless %}
+    {% endif %}
 	{% endfor %}
 	
 <div class="pagination">
