@@ -5,7 +5,7 @@ layout: default
 <!-- START OF index.html -->
 {% assign index = true %}
 	{% for page in paginator.posts %}
-    {% unless page.categories contains 'food-journal' %}
+    {% unless page.categories contains 'journal' %}
       {% assign content = page.content %}
       {% include article.html %}
     {% endunless %}
