@@ -8,7 +8,21 @@ published: false
 ---
 
 ## Food
-* roasted burgers with Bubbies sauerkraut, dino kale sauteed in olive oil
+* breakfast 
+  * roasted burgers 
+  * Bubbies sauerkraut
+  * dino kale sauteed in olive oil
+* lunch
+  * roasted burgers 
+  * Bubbies sauerkraut
+  * dino kale sauteed in olive oil
+* snack
+  * [seasnax](http://www.amazon.com/SeaSnax-Roasted-Seaweed-Classic-2-16-Ounce/dp/B0036IO1IK#) (seaweed, olive oil, salt)
+* dinner
+  * roasted burgers 
+  * Bubbies sauerkraut
+  * dino kale sauteed in olive oil
+
 
 ## Symptoms
-* Well formed, large, not-skinny BM. Red parts (from the beets, I assume). Small amounts of mucous, but it was my first solid BM in ~1.5-2 weeks.
+* Well formed, large, not-skinny BM. Red coloring (from the beets, I assume). First solid BM in ~1.5-2 weeks.
