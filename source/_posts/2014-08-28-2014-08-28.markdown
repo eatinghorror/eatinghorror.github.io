@@ -1,0 +1,26 @@
+---
+layout: post
+title: "2014-08-28"
+date: 2014-08-28 20:06:20 -0600
+comments: true
+categories: journal
+---
+
+## Food
+* breakfast
+  * burgers
+  * saurkraut
+* lunch
+  * burgers
+  * sauerkraut
+  * sweet potato
+  * coconut oil
+* dinner
+  * burgers
+  * sauerkraut
+  * kale
+  * pork loin chop
+
+## Symptoms
+* type 6, 3/10
+* type 5, 4/10

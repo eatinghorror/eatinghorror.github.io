@@ -1,0 +1,29 @@
+---
+layout: post
+title: "2014-09-01"
+date: 2014-09-01 14:16:34 -0600
+comments: true
+categories: journal
+---
+
+## Food
+* breakfast
+  * burgers
+  * sauerkraut
+  * kale
+* lunch
+  * burgers
+  * sauerkraut
+  * kale
+  * sweet potato w/ coconut oil
+
+## Lifestyle
+* Gym
+  * 95 squat
+  * 105 bench
+  * 65 row
+* Up late night before
+  * On call stuff w/ Stocktwits
+
+## Symptoms
+* None so far
